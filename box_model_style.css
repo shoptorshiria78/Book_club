@@ -1,0 +1,18 @@
+.A1 {
+    width:150px;
+    background-color: cyan;
+  /*   top right bottom left */
+    padding:5px;
+    border:2px solid black;
+    margin:1px;
+    box-shadow: 5px 5px 5px 5px gray;
+  }
+  .A2 {
+    width:150px;
+    background-color: #39db39;
+    padding:50px;
+    border:7px solid blue;
+    padding-left: 100px;
+    margin:1px 1px; 
+  
+  }
